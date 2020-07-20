@@ -1,0 +1,215 @@
+@font-face {
+    font-family: 'cairoregular';
+    src: url('fonts/cairo-regular-webfont.eot');
+    src: url('fonts/cairo-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/cairo-regular-webfont.woff') format('woff'),
+         url('fonts/cairo-regular-webfont.ttf') format('truetype'),
+         url('fonts/cairo-regular-webfont.svg#cairoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'dosislight';
+    src: url('fonts/dosis-light-webfont.eot');
+    src: url('fonts/dosis-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/dosis-light-webfont.woff') format('woff'),
+         url('fonts/dosis-light-webfont.ttf') format('truetype'),
+         url('fonts/dosis-light-webfont.svg#dosislight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#container {background-color: #ffffff;
+            width: 100%;
+            text-align: center;
+            padding-bottom: 100px;
+}
+
+#container-p {background-color: #ffffff;
+            width: 100%;
+            text-align: center;
+            padding-bottom: 300px;
+}
+
+#header {
+    
+}
+
+#logo {padding-top: 10px;
+        padding-bottom: 10px;
+}
+
+
+#topnav {
+    width: 100%;
+    background-color: #B79C0C;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+#body {width: 100%;
+        background-color: #ffffff;
+    
+    
+}
+
+#bodycolleft {
+            float: left;
+            z-index: 10;
+            width: 50%;
+            height: 20%;
+            margin-left: 10px;
+            position: absolute;
+}
+
+#bodycolmid {
+            float: left;
+            z-index: 9;
+            width: 50%;
+            height: 20%;
+            margin-left: 25%;
+            position: absolute;
+}
+
+
+#bodycolright {
+            float: left;
+            z-index: 9;
+            width: 50%;
+            height: 20%;
+            margin-left: 50%;
+            position: absolute;
+}
+
+#footer-container {width: 100%;
+                    background-color: #ffffff;
+                    padding-top: 350px;
+                    clear: both;
+}
+
+#footer-container-products {width: 100%;
+                    background-color: #ffffff;
+                    padding-top: 550px;
+                    clear: both;
+}
+
+#footer-container-contact {width: 100%;
+                    background-color: #ffffff;
+                    padding-top: 800px;
+                    clear: both;
+}
+
+#footer{width: 100%;
+        height: 20%;
+        
+        background-color: #B79C0C;
+        padding-top: 10px;
+        z-index: 9;
+}
+
+#footercolleft #footercolright{float: left;
+                                            width: 33%;
+                                            height: 20%;
+                                            margin-left: 10px;
+                                            position: static;
+                                            z-index:10;
+}
+
+#footercopyright {width: 100%;
+                  background-color: #B79C0C;
+                padding-top: 20px;
+                padding-bottom: 20px;
+                text-align: center;
+                z-index: 10;
+}
+
+#products-headerimg {padding-bottom: 20px;
+}
+
+h1 {font-family: 'dosislight', sans-serif;
+    font-size: 18pt;
+}
+
+h2 {font-family: 'dosislight', sans-serif;
+    font-size: 16pt;
+}
+
+h3 {font-family: 'dosislight', sans-serif;
+    font-size: 14pt;
+    padding-top: initial;
+}
+
+.heading3 {font-family: 'dosislight', sans-serif;
+    font-size: 14pt;
+    
+}
+
+h4 {font-family: 'dosislight', sans-serif;
+    font-size: 12pt;
+}
+
+p {font-family: 'cairoregular', sans-serif;
+    font-size: 11pt;
+}
+
+.altlink {font-family: 'cairoregular', sans-serif;
+    font-size: 11pt;
+    color: #000000;
+}
+
+
+.copyright {font-family: 'cairoregular', sans-serif;
+    color: #ffffff;
+    font-size: 16pt;
+    clear: both;
+}
+
+.sitemap {font-family: 'dosislight', sans-serif;
+    color: #ffffff;
+    font-size: 16pt;
+    text-align: left;
+}
+
+
+
+a:link {
+    color: #ffffff;
+    font-family: 'dosislight', sans-serif;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+a:visited {
+    color: #ffffff;
+    font-family: 'dosislight', sans-serif;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+a:active {
+    color: #ffffff;
+    font-family: 'dosislight', sans-serif;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+a:hover {
+    color: #ffffff;
+    font-family: 'dosislight', sans-serif;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#footercolleft {
+    float: left;
+    margin-left: 10px;
+}
+
+#footercolright {
+    float: left;
+    margin-left: 10px;
+}
+
